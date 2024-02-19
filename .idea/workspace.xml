@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1183bbd-7ec4-4100-bee7-989176507cf8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitinit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_File_Handling/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_File_Handling/que1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_File_Handling/que2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_File_Handling/que3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_File_Handling/que4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_File_Handling/que5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_File_Handling/que6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_File_Handling/que7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_File_Handling/que8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_File_Handling/que9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_File_Handling/title.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Error_Exception/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Error_Exception/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Error_Exception/poem.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Error_Exception/que1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Error_Exception/que2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Error_Exception/que3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Error_Exception/que4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Error_Exception/que5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Classes_and_Objects/Instanance_Object.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Classes_and_Objects/destructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Classes_and_Objects/ducktyping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Classes_and_Objects/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Classes_and_Objects/getter_setter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Classes_and_Objects/instance_variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Classes_and_Objects/overlaoding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Classes_and_Objects/que1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Classes_and_Objects/que3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Classes_and_Objects/que4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Classes_and_Objects/scope_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Classes_and_Objects/static_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_Standard_Libraries/1_shutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_Standard_Libraries/2_shutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_Standard_Libraries/Multi_Threading/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_Standard_Libraries/Multi_Threading/q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_Standard_Libraries/Multi_Threading/q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_Standard_Libraries/PART_2/output_formatting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_Standard_Libraries/PART_2/template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_Standard_Libraries/PART_2/weak_ref_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_Standard_Libraries/PART_2/weak_ref_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_Standard_Libraries/PART_2/weak_ref_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_Standard_Libraries/PART_2/weak_ref_proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_Standard_Libraries/Performance_mesurement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_Standard_Libraries/Threading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_Standard_Libraries/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_Standard_Libraries/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Working_with_lists/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Working_with_lists/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_API_JSON/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_API_JSON/movies.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_API_JSON/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_InputOutput/dict_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_InputOutput/list_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_control_statements/armstrong_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_control_statements/display_odd_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_control_statements/even_odd_using_for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_control_statements/for_statement_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_control_statements/for_statements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_control_statements/half_triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_control_statements/if_statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_control_statements/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_control_statements/multiplication_table_using_forloop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_control_statements/palindrome_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_control_statements/practical_prob.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_control_statements/reverse_integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Defining_functions/basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Defining_functions/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Defining_functions/fibo_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Defining_functions/inner_funciton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Defining_functions/match.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_List_Tuples/list_comprehension1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_List_Tuples/list_comprehension2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_List_Tuples/list_comprehension3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_List_Tuples/list_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_List_Tuples/list_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_List_Tuples/que1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_List_Tuples/que2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_List_Tuples/que3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_List_Tuples/tupleex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_List_Tuples/tupleex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Sets_Dict/Dictionaries/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Sets_Dict/Dictionaries/que1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Sets_Dict/Dictionaries/que2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Sets_Dict/Dictionaries/que3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Sets_Dict/Dictionaries/que4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Sets_Dict/Dictionaries/que5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Sets_Dict/Dictionaries/que6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Sets_Dict/Dictionaries/que7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Sets_Dict/Dictionaries/que8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Sets_Dict/Dictionaries/que9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Sets_Dict/Sets/que1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Sets_Dict/Sets/que2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Sets_Dict/Sets/que3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Sets_Dict/Sets/que4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Sets_Dict/Sets/que5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Sets_Dict/Sets/que6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Sets_Dict/Sets/que7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Sets_Dict/Sets/que8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Sets_Dict/Sets/que9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_Data_Structures/match.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_Data_Structures/que1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_Data_Structures/que10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_Data_Structures/que2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_Data_Structures/que3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_Data_Structures/que4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_Data_Structures/que5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_Data_Structures/que6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_Data_Structures/que7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_Data_Structures/que8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_Data_Structures/que9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_Modules/experiments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_Modules/fibex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_Modules/fibo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_Decorators/array_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_Decorators/dhaval.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_Decorators/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_Decorators/inout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_Decorators/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extra_Questions/Custom_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extra_Questions/Decimal_Binary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extra_Questions/Hide_Credit_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extra_Questions/Radian_Degree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extra_Questions/Rock_Paper_Scissors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extra_Questions/Sorting_on_demand.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extra_Questions/Vowels_in_String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extra_Questions/ceasar_cipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extra_Questions/currency_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extra_Questions/img_compress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extra_Questions/random_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extra_Questions/tp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_Questions/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_Questions/10_Removing_Duplicates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_Questions/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_Questions/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_Questions/4_Ugly_Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_Questions/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_Questions/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_Questions/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_Questions/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_Questions/9_List_Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SCRAP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clear" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poem.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/story" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/story.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_files/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/title.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workfile" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/16_Database/q3.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2akXskUXXfYVWLHp76P2GaREFCq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.img_compress.executor": "Run",
+    "Python.list_methods.executor": "Run",
+    "Python.que9.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore_missing_gitignore": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/6_Sets_Dict/Dictionaries" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="ls" />
+      <command value="clear" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.img_compress">
+    <configuration name="img_compress" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Excerise" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra_Questions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra_Questions/img_compress.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="list_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Excerise" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1_InputOutput" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_InputOutput/list_methods.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.list_methods" />
+        <item itemvalue="Python.img_compress" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1183bbd-7ec4-4100-bee7-989176507cf8" name="Changes" comment="" />
+      <created>1704863761010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704863761010</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Practice_Questions/10_Removing_Duplicates.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
